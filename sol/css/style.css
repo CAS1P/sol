@@ -1,0 +1,31 @@
+#main-wrapper {
+    background: center no-repeat url("https://github.com/CAS1P/bilder/blob/main/01000181.JPG?raw=true"); 
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+body, .field--name-title {
+    color: oklch(0.2425 0.0347 40.04);
+}
+
+#navbar-main {
+    background: oklch(0.4676 0.1209 28.59/50%);
+}
+
+#navbar-top {
+    background: oklch(0.4676 0.1209 28.59/50%);
+}
+
+.view-content {
+    background-color: oklch(0.9984 0.0079 106.54/85%);
+}
+
+#header {
+    background: linear-gradient(0deg, #872e16 0%, pink 100%);
+}   
+
+.node {
+    columns: 2;
+    gap: 3rem;
+}
